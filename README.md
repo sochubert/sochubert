@@ -19,7 +19,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sochubert)](https://github.com/sochubert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sochubert&layout=compact)](https://github.com/sochubert/github-readme-stats)
 
 *************
 
