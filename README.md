@@ -7,7 +7,7 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm a student majoring in computer science at Hanyang University Erica.
+### I'm a student majoring in computer science at Hanyang University ERICA.
 <br />
 
 
