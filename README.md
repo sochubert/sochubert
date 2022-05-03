@@ -5,7 +5,6 @@
 </p>
 <br/>
 <br/>
-# Hi there, I'm Minjae 👋
 
 
 <br/>
