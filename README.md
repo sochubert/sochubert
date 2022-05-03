@@ -37,8 +37,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving my techskills.
-- 🌱 I’m currently learning swift.
+- 🔭 I’m currently working on improving my techskills and developing web applications.
+- 🌱 I’m currently learning Swift & React.
 - 🤔 I’m looking for help with front-end and iOS skills.
 - 💬 Ask me about anything.
 - 📫 How to reach me: sochubert@gmail.com
