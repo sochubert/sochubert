@@ -37,7 +37,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my techskills and developing web applications.
-- 🌱 I’m currently learning Swift & MERN Stack.
+- 🌱 I’m currently working as iOS Engineer.
 - 🤔 I’m looking for help with MERN Stack and iOS skills.
 - 💬 Ask me about anything.
 - 📫 How to reach me: sochubert@gmail.com
