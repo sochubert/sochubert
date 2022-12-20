@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minjae%20Lee&fontSize=100)
 <br/><br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/31719821/133101077-99a78709-18a4-4000-ae01-096551c78ab0.png" />
-</p>
+
 <br/>
 <br/>
 
