@@ -11,7 +11,7 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm a iOS & Web full stack engineer.
+### I'm a Mobile application engineer.
 <br />
 
 
